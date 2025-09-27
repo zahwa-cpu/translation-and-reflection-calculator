@@ -10,7 +10,8 @@ int main() {
 	string ulang;
 	
 	cout << "======================================" << endl;
-	cout << "|---------Zahwa Al Taqiyyah ---------|" << endl;
+	cout << "|..kalkulator translari dan refleksi.|" << endl;
+	cout << "|.....Author: Zahwa Al Taqiyyah......|" << endl;
 	cout << "======================================" << endl;
 	
 	
@@ -195,4 +196,5 @@ int main() {
 	cout << "|        SISTEM SELESAI       | " << endl;
 	cout << "===============================" << endl;
 }
+
 		
